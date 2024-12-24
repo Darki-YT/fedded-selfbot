@@ -1,4 +1,4 @@
-# 🎂 __Fedded Selfbot__ 🎂
+#💸 __Night Selfbot__ 💸
 `🎁` **+autoreact <on or off> :** It will toggle on or off the autoreact.
 `🎁` **+spam <ammount> <message> :** It will spams the message according to the given ammount.
 `🎁` **+afk <reason> :** Sets your AFK to the given reason.
@@ -27,4 +27,4 @@
 `🎁` **+roast :** Will roast the user to whom message you replied.
 `🎁` **+tokencheck :** Gives you the token info.
 
-`🍳` **Made by `z_zx` **
+`🍳` **Made by `darkiboi_` **
